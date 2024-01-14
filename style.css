@@ -343,8 +343,7 @@ section {
 
 #about .section__pic-container {
   border-radius: 52px;
-  background: #e0e0e0;
-  box-shadow:  -47px 47px 94px #5a5a5a,    47px -47px 94px #ffffff;
+  filter: drop-shadow(10px 10px 20px #555);
 }
 
 /* EXPERIENCE SECTION */
