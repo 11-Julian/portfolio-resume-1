@@ -417,7 +417,13 @@ article .icon {
   border-color: #c7b198;
 }
 
-
+.project_created {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.project__text__detail {
+  color: #555;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 /* CONTACT */
 
